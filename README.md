@@ -1,7 +1,7 @@
 # PlayGunZ-Multi-v3 By UnderGunZ Team
 Playground ESP8266
 
-_Exploit Ps4 4.05/4.55 et wiiU 5.5.1/5.5.2(non testé)
+_Exploit Ps4 4.05/4.55 et wiiU 5.5.1/5.5.2(non testé)_
 
 _Payload Ps4:_  
 
