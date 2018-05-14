@@ -1,9 +1,9 @@
 # PlayGunZ-Multi-v3 By UnderGunZ Team
 Playground ESP8266
 
-_Exploit Ps4 4.05/4.55 et wiiU 5.5.1/5.5.2 (5.5.2 non testé)_
+ _*Exploit Ps4 4.05/4.55 et wiiU 5.5.1/5.5.2 (5.5.2 non testé)*_
 
-_Payload Ps4:_  
+_*Payload Ps4:*_  
 
 * HEN (traduit fr)
 * HEN VR (traduit fr)
@@ -15,7 +15,7 @@ _Payload Ps4:_
 * Hen + Uninstall update blocker (traduit fr)
 * Enable web browser (traduit fr)
 
-_Crédits:_  
+_*Crédits:*_  
 
 * Gk-An0n 
 * Pilip75 
