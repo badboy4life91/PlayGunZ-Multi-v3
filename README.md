@@ -25,3 +25,6 @@ _*Crédits:*_
 * Zar
 
 Un grand merci à tous les développeurs qui ont permis cela. 
+
+
+! https://image.noelshack.com/fichiers/2018/20/1/1526256653-20180424000704.jpg
