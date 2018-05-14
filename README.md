@@ -13,7 +13,7 @@ _Payload Ps4:_
 * DbBackup (traduit fr)
 * Linux
 * Hen + Uninstall update blocker (traduit fr)
-* Enable web browser (traduit fr)[/LIST]
+* Enable web browser (traduit fr)
 
 _Crédits:_  
 
